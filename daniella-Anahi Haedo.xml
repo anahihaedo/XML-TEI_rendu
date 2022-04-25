@@ -34,7 +34,6 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-
                 <biblStruct>
                     <analytic>
                         <author ref="https://catalogue.bnf.fr/ark:/12148/cb119236010/">
@@ -107,12 +106,12 @@
                             </address>
                         </placeName>
                     </place>
-                    <place xml:id="Mers" type="departament">
+                    <place xml:id="Mers" type="city">
                         <placeName>
                             <name>Commune de Mers</name>
                             <address>
                                 <country key="FR"/>
-                                <settlement type="departement"/>
+                                <settlement type="city"/>
                                 <postCode>80533</postCode>
                                 <district>none</district>
                                 <street>none</street> 
@@ -157,7 +156,7 @@
                     <said who="#jeanvalreg">
                         <p>Me voici à mon poste, je commence : non pas encore une relation de ce qui m’arrive, 
                             car je suis bien sûr qu’ici rien ne m’arrivera qui mérite d’être rapporté, 
-                            mais un résumé de certaines choses de ma vie que je n’ai pas su vous dire quand vous me les demandiez.D’abord, vous vouliez savoir pourquoi, n’ayant jamais été rudoyé ou maltraité en aucune façon, 
+                            mais un résumé de certaines choses de ma vie que je n’ai pas su vous dire quand vous me les demandiez. D’abord, vous vouliez savoir pourquoi, n’ayant jamais été rudoyé ou maltraité en aucune façon, 
                             j’avais ce caractère réservé, cette aversion à parler de moi aux autres, cette difficulté à m’occuper moi-même de moi-même. 
                             Je n’en savais rien. Je m’en rends peut-être compte maintenant.</p>
                         <p>Mon oncle <persName ref="#valreg">l’<roleName>abbé</roleName> Valreg</persName> n’est pas du tout spirituel ni méchant, 
@@ -348,7 +347,7 @@
                 </div>
                 
                 <div>
-                    <l><persName type="author">GEORGE SAND</persName></l>
+                    <l><persName type="author">GEORGE SAND </persName></l>
                     <l>(La suite à demain).</l>
                 </div>
                 
